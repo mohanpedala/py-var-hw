@@ -9,4 +9,4 @@ str8 = "with python"
 str9 = "this could be it"
 str10 = "for a new start"
 
-print(str1, str2, str3, str4, str5, str6, str7, str8, str9, str10)
+print('\n', "str1 = ", str1, '\n', "str2 = ", str2, '\n', "str3 = ", str3, '\n', "str4 = ", str4, '\n', "str5 = ", str5, '\n', "str6 = ", str6, '\n', "str7 = ", str7, '\n', "str8 = ", str8, '\n', "str9 = ", str9, '\n', "str10 = ", str10)
