@@ -9,13 +9,4 @@ int8 = 40
 int9 = 45
 int10 = 50
 
-print("int1 = ", int1)
-print("int2 = ", int2)
-print("int3 = ", int3)
-print("int4 = ", int4)
-print("int5 = ", int5)
-print("int6 = ", int6)
-print("int7 = ", int7)
-print("int8 = ", int8)
-print("int9 = ", int9)
-print("int10 = ", int10)
+print('\n', "int1 = ", int1,'\n', "int2 = ", int2, '\n', "int3 = ", int3, '\n', "int4 = ", int4, '\n', "int5 = ", int5, '\n',"int6 = ", int6, '\n', "int7 = ", int7, '\n', "int8 = ", int8, '\n', "int9 = ", int9, '\n', "int10 = ", int10)
